@@ -1,7 +1,6 @@
 # bayrak_bilmece_flutter
 
-A new Flutter project.
-
+A 10-question quiz application using flag and country data drawn from the SQLite database.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
